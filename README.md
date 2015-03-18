@@ -5,7 +5,8 @@ GitHubテスト用として作っている
 ## メンバー
 * ntakuya
 * tniizeki
+* someone
 
-## ファイル構成
+## ファイルの構成
 
 ## テスト
